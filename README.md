@@ -1,5 +1,9 @@
 # Outfit-Recommender-GNN
 
+## Data Source
+
+https://github.com/AemikaChow/AiDLab-fAshIon-Data
+
 ## Sample Directory
 
 ```
