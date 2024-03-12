@@ -2,6 +2,7 @@
 
 ## Sample Directory
 
+```
 outfit-recommendation-project/
 │
 ├── data/
@@ -48,4 +49,4 @@ outfit-recommendation-project/
 │   └── setup_instructions.md # Instructions for setting up and running the project
 │
 └── requirements.txt          # Project dependencies and libraries
-
+```
